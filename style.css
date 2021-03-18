@@ -1,0 +1,34 @@
+body {
+  background: green;
+}
+.base {
+  background: white;
+  border-radius: 20px;
+}
+.center {
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+}
+button {
+  visibility: visible;
+  width: 100px;
+  height: 100px;
+  background: green;
+  border: 2px solid green;
+  border-radius: 10px;
+}
+yt-btn {
+  background: red;
+  border: 2px solid red;
+}
+.homebuttonlinks {
+  color: white;
+  font-family: "Oswald", sans-serif;
+}
+p {
+  font-family: "Roboto", sans-serif;
+}
+h1, h2 {
+  font-family: "Raleway", sans-serif;
+}
